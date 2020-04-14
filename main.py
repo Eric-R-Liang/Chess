@@ -1,4 +1,7 @@
-from 
+from Board import *
+from Chess import *
+from LegalMoves import *
+
 def main():
   n = 0
   player = 10
